@@ -1,4 +1,4 @@
-![ales-nesetril-Im7lZjxeLhg-unsplash](https://user-images.githubusercontent.com/105487086/174863176-129ac5b4-f0f0-4daf-90d4-715a23ee0f18.jpg)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?demystik=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 
 - My name is THAOBAN
@@ -10,3 +10,6 @@
 - 📫 How to reach me: demystiktech@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?demystik=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)

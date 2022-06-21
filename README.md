@@ -12,12 +12,9 @@
 - ⚡ Fun fact: ...
 
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=demystik&repo=demystik)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demystik)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demystik&layout=demystik)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demystik)](https://github.com/anuraghazra/github-readme-stats)
+

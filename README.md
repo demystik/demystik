@@ -2,14 +2,14 @@
 ### Hi there 👋
 
 - My name is THAOBAN
-- 🔭 I’m currently working on c programming language
+- 🔭 I’m currently working on c SE projects
 - 🌱 I’m currently learning c programming language
 - 👯 I’m looking to collaborate on learn tech stuffs
 - 🤔 I’m looking for help with anyone in the field
 - 💬 Ask me about ...
 - 📫 How to reach me: demystiktech@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... "Man is limitless"
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

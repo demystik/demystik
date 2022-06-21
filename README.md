@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=demystik&demystik=github-readme-stats)](https://github.com/demystik/github-readme-stats)
+
 ### Hi there 👋
 
 - My name is THAOBAN
@@ -12,4 +12,9 @@
 - ⚡ Fun fact: ...
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?demystik=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=demystik&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=demystik&demystik=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=demystik&repo=demystik)](https://github.com/anuraghazra/github-readme-stats)

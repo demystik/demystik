@@ -19,7 +19,7 @@
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
-
+![](https://komarev.com/ghpvc/?username=demystik)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demystik&show_icons=true&theme=radical)
 

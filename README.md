@@ -2,11 +2,11 @@
 ### Hi there 👋
 
 - My name is THAOBAN
-- 🔭 I’m currently working on c SE projects
+- 🔭 I’m currently working on ALX SE projects
 - 🌱 I’m currently learning c programming language
 - 👯 I’m looking to collaborate on learn tech stuffs
 - 🤔 I’m looking for help with anyone in the field
-- 💬 Ask me about ...
+- 💬 Ask me about c programming lang, python and java
 - 📫 How to reach me: demystiktech@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... "Man is limitless"

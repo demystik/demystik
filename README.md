@@ -1,8 +1,8 @@
 ![68747470733a2f2f626c6f672e6269742e61692f77702d636f6e74656e742f75706c6f6164732f323031382f30392f486f772d746f2d456d6265642d4769744875622d47697374732d696e2d596f75722d446f63756d656e74732d426c6f672d42616e6e65722e706e67](https://user-images.githubusercontent.com/105487086/179811633-19c51eb8-eea0-4bc3-863e-ab833a1dff6f.png)
 
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Thaoban Abdrasheed </h1>
+<h3 align="center">A passionate Software Engineer from Nigeria.</h3>
 
-- My name is THAOBAN
 - 🔭 I’m currently working on ALX SE projects
 - 🌱 I’m currently learning c programming language
 - 👯 I’m looking to collaborate on learn tech stuffs

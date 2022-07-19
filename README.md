@@ -34,8 +34,7 @@
 
 
 
-<h1 align="center"> Stats. </h1>
--------------------------------------------------------------------------------------------
+<h1> Stats. </h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demystik&show_icons=true&theme=radical)
 

@@ -42,6 +42,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demystik&layout=demystik)](https://github.com/anuraghazra/github-readme-stats)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demystik&layout=compact&theme=dark&hide_border=false" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=demystik)](https://git.io/streak-stats)
 

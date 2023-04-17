@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Software Engineer from Nigeria.</h3>
 
 - 🔭 I’m currently working on ALX SE projects
-- 🌱 I’m currently learning c programming language
+- 🌱 I’m currently learning python, javascript, mysql and devops
 - 👯 I’m looking to collaborate on learn tech stuffs
 - 🤔 I’m looking for help with anyone in the field
 - 💬 Ask me about c programming lang, python and java

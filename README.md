@@ -52,7 +52,6 @@ Name | Badges
 
 <h1> Stats. </h1>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=demystik&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=demystik&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -69,7 +68,8 @@ Name | Badges
 
 
 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=demystik&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=demystik&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=demystik&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 

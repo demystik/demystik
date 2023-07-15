@@ -53,8 +53,6 @@ Name | Badges
 <h1> Stats. </h1>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=demystik&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demystik&layout=compact&theme=dark&hide_border=false" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=demystik&show_icons=true&locale=en&theme=onedark" alt="demystik" /></p>

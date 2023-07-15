@@ -57,6 +57,8 @@ Name | Badges
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demystik&layout=compact&theme=dark&hide_border=false" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=demystik&show_icons=true&locale=en&theme=onedark" alt="demystik" /></p>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=demystik)](https://git.io/streak-stats)
 
 

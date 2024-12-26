@@ -4,9 +4,9 @@
 <h3 align="center">Passionate Flutter Developer, Crafting Digital Magic with Code. 📱👨‍💻</h3>
 
 - 🔭 I’m busy pushing boundaries, and expanding possibilities
-- 🌱 I’m currently learning cloud engineering and Devops
-- 👯 I’m looking to collaborate on learn tech stuffs
-- 🤔 I’m looking for help with anyone in the field
+- 🌱 I’m currently not learning everything 🤣, my focus is on flutter and python
+- 👯 I’m looking to collaborate with other developers and build amazing stuffs
+- 🥅 2024 Goals: Is to build more projects that will affect life in positive ways, teach and speak in tech events
 - 💬 Ask me about Dart, python and javascript
 - 📫 How to reach me: demystiktech@gmail.com
 - 😄 Pronouns: ...

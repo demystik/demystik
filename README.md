@@ -6,7 +6,7 @@
 - 🔭 I’m busy pushing boundaries, and expanding possibilities
 - 🌱 I’m currently not learning everything 🤣, my focus is on flutter and python
 - 👯 I’m looking to collaborate with other developers and build amazing stuffs
-- 🥅 2024 Goals: Is to build more projects that will affect life in positive ways, teach and speak in tech events
+- 🥅 2026 Goals: Is to build more projects that will affect life in positive ways, teach and speak in tech events
 - 💬 Ask me about Dart, python and javascript
 - 📫 How to reach me: demystiktech@gmail.com
 - 😄 Pronouns: ...
